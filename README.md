@@ -1,5 +1,5 @@
 [![SensioLabsInsight](https://insight.sensiolabs.com/projects/67c84e89-dfd1-4cd6-8604-53504f5dd101/mini.png)](https://insight.sensiolabs.com/projects/67c84e89-dfd1-4cd6-8604-53504f5dd101)
-[![Build Status](https://travis-ci.org/ChiarilloMassimo/satispay-php-sdk.svg?branch=master)](https://travis-ci.org/ChiarilloMassimo/satispay-php-sdk)
+[![Build Status](https://travis-ci.org/massimo-me/satispay-php-sdk.svg?branch=master)](ttps://travis-ci.org/massimo-me/satispay-php-sdk?branch=master)
 
 # Satispay PHP SDK
 
